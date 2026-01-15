@@ -1,4 +1,4 @@
-      Program my_simulation
+      Program my_simulation_non_reactive
       implicit real*8 (a-h,o-z)
 
       dimension pos(3,3), vel(3,3), force(3,3)
